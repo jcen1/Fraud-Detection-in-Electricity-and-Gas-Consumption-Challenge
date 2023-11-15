@@ -5,7 +5,7 @@ Proejct link: https://zindi.africa/competitions/fraud-detection-in-electricity-a
 Run first two lines of the notebook and it will create a directory for you
 </br></br>![image](https://github.com/jcen1/Fraud-Detection-in-Electricity-and-Gas-Consumption-Challenge/assets/32084705/f7eb8728-1d16-406f-9dad-7e6ced32e60a)</br></br>
 
-Then load data accordingly:</br>Samplesubmission</br>
+Then load data accordingly:</br>structure like this should be created; add Samplesubmission here</br>
 ![image](https://github.com/jcen1/Fraud-Detection-in-Electricity-and-Gas-Consumption-Challenge/assets/32084705/c6a2f974-c8ba-4709-b674-032f4d9e7840)</br></br>
 
 train folder</br></br>
