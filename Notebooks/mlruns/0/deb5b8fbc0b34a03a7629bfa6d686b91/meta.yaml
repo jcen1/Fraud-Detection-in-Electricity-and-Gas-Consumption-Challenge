@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/deb5b8fbc0b34a03a7629bfa6d686b91/artifacts
+end_time: 1700252218784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deb5b8fbc0b34a03a7629bfa6d686b91
+run_name: exultant-crane-252
+run_uuid: deb5b8fbc0b34a03a7629bfa6d686b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700252213208
+status: 4
+tags: []
+user_id: carni
