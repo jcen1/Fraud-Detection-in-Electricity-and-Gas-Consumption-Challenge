@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b126e47b6a024130a1c3780db91acf6f/artifacts
+end_time: 1700342019875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b126e47b6a024130a1c3780db91acf6f
+run_name: gregarious-shrimp-3
+run_uuid: b126e47b6a024130a1c3780db91acf6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700341654533
+status: 3
+tags: []
+user_id: carni
