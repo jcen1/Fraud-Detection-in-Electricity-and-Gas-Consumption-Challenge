@@ -1,5 +1,5 @@
 # Fraud-Detection-in-Electricity-and-Gas-Consumption-Challenge
-Fraud Detection in Electricity and Gas Consumption Challenge for Team Summerhill </br>
+Fraud Detection in Electricity and Gas Consumption Challenge with Shallow ML </br>
 Proejct link: https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge
 ## Project Setup
 Run first two lines of the notebook and it will create a directory for you
@@ -13,4 +13,7 @@ train folder</br></br>
 
 test folder</br></br>
 ![image](https://github.com/jcen1/Fraud-Detection-in-Electricity-and-Gas-Consumption-Challenge/assets/32084705/1ceb826d-6719-49ee-82e4-126148c6fca3)</br></br>
+
+# Result
+Public Score of 0.900185082 ranked 2nd at time of submission
 
